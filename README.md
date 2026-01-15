@@ -62,33 +62,53 @@ L'application met en évidence les différentes phases du cycle de vie :
 Voici quelques captures d'écran montrant l'application en action :
 
 ### Écran de connexion
-![Écran de connexion](assets/PhotoLogin.png)
+<div align="center">
+  <img src="assets/PhotoLogin.png" alt="Écran de connexion" width="300"/>
+</div>
 
 ### Étapes de développement
 #### Étape 1 - Activité avec Spinner
-![Étape 1 - Activité avec Spinner](assets/Photo_Etape1_activity_spinner0.png)
+<div align="center">
+  <img src="assets/Photo_Etape1_activity_spinner0.png" alt="Étape 1 - Activité avec Spinner" width="300"/>
+</div>
 
 #### Étape 2 - Activité avec Liste
-![Étape 2 - Activité avec Liste View 1](assets/Photo_Etape2_activity_list_view0.png)
-![Étape 2 - Activité avec Liste View 2](assets/Photo_Etape2_activity_list_view1.png)
-![Étape 2 - Activité avec Spinner](assets/Photo_Etape2_activity_spinner1.png)
+<div align="center">
+  <img src="assets/Photo_Etape2_activity_list_view0.png" alt="Étape 2 - Activité avec Liste View 1" width="300"/>
+  <img src="assets/Photo_Etape2_activity_list_view1.png" alt="Étape 2 - Activité avec Liste View 2" width="300"/>
+</div>
+<div align="center">
+  <img src="assets/Photo_Etape2_activity_spinner1.png" alt="Étape 2 - Activité avec Spinner" width="300"/>
+</div>
 
 #### Étape 3 - Activité avec Grille
-![Étape 3 - Activité avec Grille View 1](assets/Photo_Etape3_activity_grid_view0.png)
-![Étape 3 - Activité avec Grille View 2](assets/Photo_Etape3_activity_grid_view1.png)
+<div align="center">
+  <img src="assets/Photo_Etape3_activity_grid_view0.png" alt="Étape 3 - Activité avec Grille View 1" width="300"/>
+  <img src="assets/Photo_Etape3_activity_grid_view1.png" alt="Étape 3 - Activité avec Grille View 2" width="300"/>
+</div>
 
 ### Interface finale de gestion des tâches
-![Récapitulatif final](assets/Recaptulation_final.png)
+<div align="center">
+  <img src="assets/Recaptulation_final.png" alt="Récapitulatif final" width="300"/>
+</div>
 
 ### Autres captures d'écran de l'application
-![Capture d'écran 1](assets/Screenshot_20260115_101023.png)
-![Capture d'écran 2](assets/Screenshot_20260115_101049.png)
-![Capture d'écran 3](assets/Screenshot_20260115_101101.png)
-![Capture d'écran 4](assets/Screenshot_20260115_101109.png)
-![Capture d'écran 5](assets/Screenshot_20260115_101131.png)
-![Capture d'écran 6](assets/Screenshot_20260115_101240.png)
-![Capture d'écran 7](assets/Screenshot_20260115_101256.png)
-![Capture d'écran 8](assets/Screenshot_20260115_101329.png)
+<div align="center">
+  <img src="assets/Screenshot_20260115_101023.png" alt="Capture d'écran 1" width="300"/>
+  <img src="assets/Screenshot_20260115_101049.png" alt="Capture d'écran 2" width="300"/>
+</div>
+<div align="center">
+  <img src="assets/Screenshot_20260115_101101.png" alt="Capture d'écran 3" width="300"/>
+  <img src="assets/Screenshot_20260115_101109.png" alt="Capture d'écran 4" width="300"/>
+</div>
+<div align="center">
+  <img src="assets/Screenshot_20260115_101131.png" alt="Capture d'écran 5" width="300"/>
+  <img src="assets/Screenshot_20260115_101240.png" alt="Capture d'écran 6" width="300"/>
+</div>
+<div align="center">
+  <img src="assets/Screenshot_20260115_101256.png" alt="Capture d'écran 7" width="300"/>
+  <img src="assets/Screenshot_20260115_101329.png" alt="Capture d'écran 8" width="300"/>
+</div>
 
 ## Vidéo de démonstration
 
