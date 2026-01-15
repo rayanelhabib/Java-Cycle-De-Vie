@@ -3,20 +3,30 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp"
+    android:gravity="center_horizontal"
+    android:padding="20dp"
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/tvWelcome"
+        android:id="@+id/tvWelcomeDashboard"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="20sp"
-        android:layout_marginBottom="16dp"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="40dp"
         tools:text="Bienvenue, utilisateur !" />
 
-    <ListView
-        android:id="@+id/lvTasks"
+    <Button
+        android:id="@+id/btnGoToProfile"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="Gérer mon profil" />
+
+    <Button
+        android:id="@+id/btnGoToTasks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Voir mes tâches" />
 
 </LinearLayout>

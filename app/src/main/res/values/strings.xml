@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">TP7Java-Cycle-De-Vie</string>
+
+    <string-array name="task_filter_options">
+        <item>Toutes</item>
+        <item>À faire</item>
+        <item>Terminée</item>
+    </string-array>
+
+    <string-array name="new_task_status_options">
+        <item>À faire</item>
+        <item>Terminée</item>
+    </string-array>
 </resources>
