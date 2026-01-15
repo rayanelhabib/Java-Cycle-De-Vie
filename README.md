@@ -61,16 +61,6 @@ L'application met en évidence les différentes phases du cycle de vie :
 
 Voici quelques captures d'écran montrant l'application en action :
 
-
-
-
-
-
-
-
-
-
-
 ### Captures d'écran de l'application
 <div align="center">
   <img src="assets/Screenshot_20260115_101023.png" alt="Capture d'écran 1" width="300"/>
