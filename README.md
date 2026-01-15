@@ -61,38 +61,17 @@ L'application met en évidence les différentes phases du cycle de vie :
 
 Voici quelques captures d'écran montrant l'application en action :
 
-### Écran de connexion
-<div align="center">
-  <img src="assets/PhotoLogin.png" alt="Écran de connexion" width="300"/>
-</div>
 
-### Étapes de développement
-#### Étape 1 - Activité avec Spinner
-<div align="center">
-  <img src="assets/Photo_Etape1_activity_spinner0.png" alt="Étape 1 - Activité avec Spinner" width="300"/>
-</div>
 
-#### Étape 2 - Activité avec Liste
-<div align="center">
-  <img src="assets/Photo_Etape2_activity_list_view0.png" alt="Étape 2 - Activité avec Liste View 1" width="300"/>
-  <img src="assets/Photo_Etape2_activity_list_view1.png" alt="Étape 2 - Activité avec Liste View 2" width="300"/>
-</div>
-<div align="center">
-  <img src="assets/Photo_Etape2_activity_spinner1.png" alt="Étape 2 - Activité avec Spinner" width="300"/>
-</div>
 
-#### Étape 3 - Activité avec Grille
-<div align="center">
-  <img src="assets/Photo_Etape3_activity_grid_view0.png" alt="Étape 3 - Activité avec Grille View 1" width="300"/>
-  <img src="assets/Photo_Etape3_activity_grid_view1.png" alt="Étape 3 - Activité avec Grille View 2" width="300"/>
-</div>
 
-### Interface finale de gestion des tâches
-<div align="center">
-  <img src="assets/Recaptulation_final.png" alt="Récapitulatif final" width="300"/>
-</div>
 
-### Autres captures d'écran de l'application
+
+
+
+
+
+### Captures d'écran de l'application
 <div align="center">
   <img src="assets/Screenshot_20260115_101023.png" alt="Capture d'écran 1" width="300"/>
   <img src="assets/Screenshot_20260115_101049.png" alt="Capture d'écran 2" width="300"/>
